@@ -52,5 +52,4 @@ que conviertan conocimiento y talento en oportunidades reales.
 
 ## Contacto
 
-🌐 Sitio web: https://sites.google.com/view/admirablescreadores  
-📩 Contacto a través del sitio
+🔗 LinkedIn: https://www.linkedin.com/company/admirables-creadores/
