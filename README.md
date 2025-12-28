@@ -15,7 +15,7 @@ de forma transparente, justa y trazable.
 Creemos que la propiedad intelectual no solo se protege:
 también se **comparte, se construye y se multiplica**.
 
-Nuestra misión es transformar el valor humano —ideas, conocimiento y talento—
+Nuestra misión es transformar el valor humano (ideas, conocimiento y talento)
 en oportunidades reales, accesibles y sostenibles,
 mediante tecnología diseñada para crear en comunidad.
 
